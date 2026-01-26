@@ -62,7 +62,7 @@
   },
   "dependencies": {
     "@popperjs/core": "^2.11.4",
-    "@tokens-studio/sd-transforms": "^1.2.4",
+    "@tokens-studio/sd-transforms": "^2.0.0",
     "axios": "^0.30.2",
     "bootstrap": "^4.6.2",
     "chalk": "^4.1.2",
