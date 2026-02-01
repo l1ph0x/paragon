@@ -26,6 +26,7 @@
   ],
   "sideEffects": false,
   "overrides": {
+    "@testing-library/dom": "9.3.3",
     "@types/minimatch": "5.1.2"
   },
   "scripts": {
@@ -213,8 +214,5 @@
     "www",
     "icons",
     "dependent-usage-analyzer"
-  ],
-  "overrides": {
-    "@testing-library/dom": "9.3.3"
-  }
+  ]
 }
