@@ -1,6 +1,6 @@
 {
   "name": "@l1ph0x/paragon",
-  "version": "23.4.5-ka.2",
+  "version": "v23.4.5-ka.3",
   "description": "Accessible, responsive UI component library based on Bootstrap.",
   "main": "dist/index.js",
   "module": "dist/index.js",
